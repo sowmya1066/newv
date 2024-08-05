@@ -2,24 +2,25 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 20px 100px;
+  padding: 20px 150px;
 
   /* box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); */
 }
 
 .logo img {
-  height: 40px;
+  height: 70px;
 }
 
 .navLinks {
   display: flex;
-  gap: 35px;
+  gap: 57px;
 }
 
 .navLinks a {
   text-decoration: none;
   font-weight: bold;
   color: white;
+  font-family: "Apple Chancery, cursive";
 }
 
 .resume a {

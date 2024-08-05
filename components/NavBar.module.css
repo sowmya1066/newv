@@ -1,10 +1,11 @@
+@import url("https://fonts.googleapis.com/earlyaccess/nicomoji.css");
+
 .nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
   padding: 20px 150px;
-
-  /* box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); */
+  font-family: "Nico Moji", sans-serif;
 }
 
 .logo img {
@@ -20,7 +21,6 @@
   text-decoration: none;
   font-weight: bold;
   color: white;
-  font-family: "Apple Chancery, cursive";
 }
 
 .resume a {

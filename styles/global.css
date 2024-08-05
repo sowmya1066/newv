@@ -1,19 +1,7 @@
-@font-face {
-  font-family: "Nico Moji";
-  src: url("/fonts/nico-moji.woff2") format("woff2"),
-    url("/fonts/nico-moji.woff") format("woff"),
-    url("/fonts/nico-moji.ttf") format("truetype");
-  font-weight: normal;
-  font-style: normal;
-}
-
 body {
   margin: 0;
   padding: 0;
   background-color: #1a1a1a;
-  body {
-    font-family: "Nico Moji", sans-serif;
-  }
 }
 .hero {
   display: flex;

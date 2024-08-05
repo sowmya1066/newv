@@ -6,6 +6,8 @@
   align-items: center;
   padding: 20px 150px;
   font-family: "Nico Moji", sans-serif;
+  font-weight: 100px !important;
+  font-size: 20px;
 }
 
 .logo img {
